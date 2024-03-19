@@ -1,0 +1,13 @@
+model,condition,accuracy,pre_hit,post_hit
+Haiku,Correct-Correct,0.37,0.44,0.3
+Haiku,Correct-Misspelled,0.37,0.44,0.3
+Haiku,Misspelled-Correct,0.44,0.57,0.31
+Haiku,Misspelled-Misspelled,0.41,0.52,0.3
+Sonnet,Correct-Correct,0.615,0.57,0.66
+Sonnet,Correct-Misspelled,0.665,0.77,0.56
+Sonnet,Misspelled-Correct,0.47,0.57,0.37
+Sonnet,Misspelled-Misspelled,0.71,0.75,0.67
+Opus,Correct-Correct,0.935,1.0,0.87
+Opus,Correct-Misspelled,0.645,0.8,0.49
+Opus,Misspelled-Correct,0.935,1.0,0.87
+Opus,Misspelled-Misspelled,0.735,0.8,0.67
