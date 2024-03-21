@@ -53,8 +53,11 @@ A collection of experiments studying the impact of typographical errors (typos) 
 
 
 ### Homophones: same pronounciation, different spelling ([Scenario #3](/experiments/scenario_3/))
-<details><summary><b>Homophone dataset</b></summary>
-| First word | Second word |
+
+<details>
+  <summary><b>Homophone dataset</b></summary>
+
+  | First word | Second word |
 |:--------:|:--------:|
 |    cite     |    sight     |
 |    hole     |    whole     |
@@ -64,6 +67,7 @@ A collection of experiments studying the impact of typographical errors (typos) 
 |    steal     |    steel     |
 |    tail     |    tale     |
 |    waist     |    waste     |
+
 </details>
 
 ### Notes
