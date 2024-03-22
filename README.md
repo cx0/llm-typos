@@ -56,8 +56,11 @@ Figure 2. Retrieval accuracy of the most capable model (`Opus`) in the preceding
 
 
 ### Homophones: same pronounciation, different spelling ([Scenario #3](/experiments/scenario_3/))
-<details><summary><b>Homophone dataset</b></summary>
-| First word | Second word |
+
+<details>
+  <summary><b>Homophone dataset</b></summary>
+
+  | First word | Second word |
 |:--------:|:--------:|
 |    cite     |    sight     |
 |    hole     |    whole     |
@@ -67,6 +70,7 @@ Figure 2. Retrieval accuracy of the most capable model (`Opus`) in the preceding
 |    steal     |    steel     |
 |    tail     |    tale     |
 |    waist     |    waste     |
+
 </details>
 
 ### Notes
