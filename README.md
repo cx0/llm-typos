@@ -32,8 +32,11 @@ A collection of experiments studying the impact of typographical errors (typos) 
 
 <img src='figures/scenario_1_accuracies.png' alt='Scenario 1 accuracies' width='500'/>
 
+Figure 1. Retrieval accuracy of Claude-3 family models in increasing reasoning capabilities (x-axes) for the preceding and following words around the user-provided query word `x` in the target sample text `y`. Misspelling context (colors) indicate spelling status of the query word and target sample text. Each bar shows the aggregate retrieval accuracy across 100 runs (20 samples per query word) for each mispelling context.
+
 <img src='figures/scenario_1_accuracies_pre_vs_post.png' alt='Scenario 1 accuracies (pre vs post)' width='500'/>
 
+Figure 2. Retrieval accuracy of the most capable model (`Opus`) in the preceding and following words around the user-provided query word `x` in the target sample text `y`. Note that the retrieval accuracy is significantly higher for the preceding word than for the following word irrespective of the misspelling context.
 
 ### How about common misspellings with distinct meaning? ([Scenario #2](/experiments/scenario_2/))
 
